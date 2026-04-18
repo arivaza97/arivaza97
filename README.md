@@ -1,7 +1,3 @@
-### Hi there!
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arivaza97&label=Profile%20views&color=0e75b6&style=flat" alt="arivaza97" /> </p>
-
 <h1 align="center">Hi there, I'm Arivazhagan 👋</h1>
 <h3 align="center">☁️ DevOps Engineer | Cloud | CI/CD | Observability</h3>
 
