@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Arivazhagan 👋</h1>
+<h1 align="center">Hi there, I'm Arivazhagan Arumugam 👋</h1>
 <h3 align="center">☁️ DevOps Engineer | Cloud | CI/CD | Observability</h3>
 
 <p align="center">
@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gitlab CI/CD-7B42BC?style=for-the-badge&logo=gitlabcicd&logoColor=white"/>
 </p>
 
 #### 📊 Monitoring & Observability
